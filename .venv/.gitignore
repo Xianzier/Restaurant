@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.idea/  # PyCharm的配置文件
+
+# Node.js
+node_modules/
+dist/
+.npm
+npm-debug.log*
+
+# macOS
+.DS_Store
