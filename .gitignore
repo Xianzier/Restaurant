@@ -1,0 +1,16 @@
+# Global .gitignore
+.env
+.idea/
+*.pyc
+__pycache__/
+venv/
+# 根目录通用忽略规则
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+out/
+bin/
+node_modules/
+dist/
